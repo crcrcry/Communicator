@@ -1,4 +1,4 @@
-# 计网实验七
+# Socket Communicator
 - 利用 socket 实现 客户端-服务器-客户端 的通信
 
 ## 具体功能
